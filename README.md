@@ -1,5 +1,4 @@
 ﻿# mobile-app-development-homework
-# Mobile App Development Homework
 
 ## Student Information
 - Course: Mobile App Development
@@ -58,4 +57,5 @@
 - Firebase Storage
 
 ---
+
 
