@@ -44,10 +44,9 @@
 - Demo các component Compose
 - Reusable UI
 
-### 10. FirebaseApplication ⭐
+### 10. FirebaseApplication
 - Google Sign In (Firebase Auth)
 - Update Profile (Name + Avatar)
-- Realtime Chat (Firestore)
 
 ---
 
@@ -59,3 +58,4 @@
 - Firebase Storage
 
 ---
+
