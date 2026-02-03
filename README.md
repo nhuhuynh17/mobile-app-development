@@ -47,6 +47,18 @@
 - Google Sign In (Firebase Auth)
 - Update Profile (Name + Avatar)
 
+### 11. UTHSmartTasksW07
+- Ứng dụng quản lý công việc (Task Management)
+- Thiết kế theo kiến trúc MVVM
+- Sử dụng Jetpack Compose cho UI
+- Lưu trữ dữ liệu cục bộ với Room Database
+- Hoạt động offline
+- Chức năng:
+  - Hiển thị danh sách task
+  - Thêm task mới
+  - Validate dữ liệu (không cho nhập rỗng)
+  - Giao diện Card màu sắc sinh động
+
 ---
 
 ## Technologies Used
@@ -57,5 +69,6 @@
 - Firebase Storage
 
 ---
+
 
 
